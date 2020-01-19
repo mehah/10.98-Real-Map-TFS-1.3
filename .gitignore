@@ -1,0 +1,15 @@
+
+config.lua
+bz2.dll
+boost_iostreams.dll
+boost_filesystem-vc140-mt-x64-1_71.dll
+boost_date_time-vc140-mt-x64-1_71.dll
+data/world/map1.otbm
+key.pem
+libmariadb.dll
+lua51.dll
+lzma.dll
+pugixml.dll
+theforgottenserver-x64.exe
+zlib1.dll
+zstd.dll
